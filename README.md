@@ -36,10 +36,9 @@ Si no tienes `virtualenv` instalado, puedes hacerlo con pip. Aunque desde Python
 ### Usando `virtualenv`
 
 bash
-
-Copiar código
-
-`pip install virtualenv` 
+```
+pip install virtualenv 
+```
 
 ## Paso 2: Crear un Entorno Virtual
 
@@ -100,9 +99,9 @@ Con el entorno virtual activado, puedes instalar las bibliotecas que necesites u
 bash
 
 Copiar código
-
-`pip install nombre_del_paquete` 
-
+```
+pip install nombre_del_paquete 
+```
 ## Paso 5: Desactivar el Entorno Virtual
 
 Cuando hayas terminado de trabajar, puedes desactivar el entorno virtual con el siguiente comando:
